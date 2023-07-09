@@ -8,6 +8,5 @@ O CSS personalizado define estilos para a classe .container e o título <h1>, ut
 
 Os ícones de redes sociais são representados por elementos <a> com ícones <i> dentro deles. O CSS define estilos para os ícones utilizando as classes fab da biblioteca Font Awesome. Além disso, uma animação de hover é adicionada aos ícones utilizando a propriedade transform.
 
-
-![image](https://github.com/joaovt2/landing-page-para-redes-sociais/assets/76740018/b82976c7-0fec-499c-b6a7-e493fc809cdf)
+[image](https://github.com/joaovt2/landing-page-para-redes-sociais/assets/76740018/b82976c7-0fec-499c-b6a7-e493fc809cdf)
 
